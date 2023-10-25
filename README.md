@@ -4,6 +4,7 @@ Din fisierul f.in se citeste un sir de maximum 100 de caractere care reprezinta 
 *Exemplu*
 | **f.in** | **f.out**          |
 |----------|--------------------|
-| f 3      | f(x,g(x,y,z),h(x)) |
+| fxgxyzhx | f(x,g(x,y,z),h(x)) |
+| f 3      |                    |
 | g 3      |                    |
 | h 1      |                    |
